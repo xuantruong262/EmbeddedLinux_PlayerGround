@@ -1,0 +1,3 @@
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/03_BareConf_BlinkLed/BareConf.ko
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/03_BareConf_BlinkLed/BareConf.o
+
