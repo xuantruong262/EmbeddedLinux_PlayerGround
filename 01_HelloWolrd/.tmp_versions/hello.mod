@@ -1,0 +1,3 @@
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/01_HelloWolrd/hello.ko
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/01_HelloWolrd/hello.o
+
