@@ -1,0 +1,3 @@
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/04_DeviceFile/driver/04_DeviceFile.ko
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/04_DeviceFile/driver/04_DeviceFile.o
+
