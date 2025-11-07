@@ -1,0 +1,3 @@
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/06_Interupt/driver/interupt.ko
+/home/xuantruong/Desktop/Linux_PlayerGround/github/EmbeddedLinux_PlayerGround/06_Interupt/driver/interupt.o
+
