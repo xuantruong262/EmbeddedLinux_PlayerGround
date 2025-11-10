@@ -1,0 +1,14 @@
+OBJ	=	main.o \
+		cal.o
+
+CFLAGS = -Wall -Wextra -fPIC -I.
+all: main
+
+main: $(OBJ)
+	gcc $(OBJ) -o main
+
+%.o: %.c
+	gcc $(CFLAGS) -c $< -o $@
+
+clean:
+	rm -rf *o main *.so
