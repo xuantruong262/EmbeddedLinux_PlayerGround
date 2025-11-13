@@ -11,13 +11,14 @@ int main() {
     struct sockaddr_in serv = {0};
     serv.sin_family = AF_INET;
     serv.sin_port = htons(5000);
-    inet_pton(AF_INET, "0.0.0.0", &serv.sin_addr);
+    inet_pton(AF_INET, "192.168.2.8", &serv.sin_addr);
 
     connect(sock, (struct sockaddr*)&serv, sizeof(serv));
     char msg[100] = "Hello World";
     while (1) {
         send(sock, msg, strlen(msg), 0);
         printf("Echo: %s\n", msg);
+		sleep(3);
     }
 
     close(sock);
