@@ -1,0 +1,3 @@
+/mnt/c/Users/ADMIN/Desktop/EmbeddedLinux_PlayerGround/EmbeddedLinux_PlayerGround/05_CrossCompile_WSL/driver/corss_compile.ko
+/mnt/c/Users/ADMIN/Desktop/EmbeddedLinux_PlayerGround/EmbeddedLinux_PlayerGround/05_CrossCompile_WSL/driver/corss_compile.o
+
