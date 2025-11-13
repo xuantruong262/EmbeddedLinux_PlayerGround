@@ -1,0 +1,18 @@
+Mission:
+Finish the interupt sample in device driver => Done
+Use wsl to cross compile driver for ARM cortex in jetson nano => Done
+Watch the process lesson in Linux OS on youtube
+	- Practice with dynamic library(share lib) => Done
+	- Practice process => Done
+Watch signal lesson => Done
+	Note lesson
+	Code some example
+Watch socket lesson => Done
+	Note lesson
+	Code some example
+Watch multi thread lesson: => Done
+	Note lesson
+	
+Watch share memory lesson => Done
+	Note lesson
+	Code some sample
